@@ -1,0 +1,5 @@
+$var = 5 + 11
+print "hello"
+input "age? " $age
+print $age
+print $var
